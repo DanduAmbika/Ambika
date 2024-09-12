@@ -1,0 +1,234 @@
+.A h1 {
+    text-align: center;
+    color: white;
+}
+.A p {
+    text-align: center;
+    font-size: 20px;
+}
+.Voluptatem p {
+    text-align: left;
+}
+.para {
+    display: flex;
+}
+.icons {
+    border: 2px solid lightgrey;
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    margin-left: 20px;
+    color: yellow;
+}
+.icons:hover {
+border: 2px solid yellow;
+}
+.icons:hover h4 {
+    color: yellow;
+}
+.icons:hover i {
+    color: yellow;
+}
+.icons h4 {
+    color: white;
+}
+.A p {
+    margin-bottom: 30px;
+    color: white;
+}
+.project {
+    padding: 60px 0px;
+    background-image: url(./images/grunge-watercolor-background-using-pastel-colours_1048-6530.avif);
+    background-position: center;
+    background-size: cover;
+}
+.icon1 i {
+    color: yellow; 
+    margin-left: -2px;  
+}
+.icon1 li{
+    list-style: none;
+}
+.icon1 p {
+    text-align: left;
+    left: -1%;
+}
+.image img {
+    width: 90%;
+}
+.section {
+    padding: 60px 0px;
+}
+.image1 img {
+    width: 93%;
+}
+.section-3 {
+    padding: 60px 0px;
+}
+.set {
+    padding: 60px 0px;
+}
+h4 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.L i {
+    color: yellow;
+    font-size: 50px;
+}
+.N p {
+        text-align: center;
+}
+.R h2{
+    margin-bottom: 5%;
+}
+.H {
+    text-align: center;
+    padding: 60px;
+    margin-bottom: 30px;
+}
+.icon-4  i h1 {
+    padding: 40px;
+    font-size: 40px;
+}
+.icon-4 i {
+    padding: 50px;
+    font-size: 40px;
+}
+.icon-4 h6 {
+    text-align: center;
+}
+.icon-4 h1 {
+    padding: 10px;
+}
+.H {
+    border: 2px solid lightgrey;
+    box-shadow: 0 0 6px 0;
+    }
+.H i {
+    font-size: 50px;
+    background-color: orange;
+    padding: 5px;
+    border-radius: 10px;
+    }
+.M h1 {
+    text-align: center;
+}
+p {
+    margin-bottom: 40px;
+}
+.button {
+    text-align: center;
+  
+}
+.button a {
+    text-decoration: none;
+    border: 2px solid black; 
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: black;
+}
+.pull {
+    background-image: url(./images/rainbow-light-watercolor-stains_125540-2250.avif);
+    padding: 60px 0px;
+    background-position: center;
+    background-size: cover;
+}
+.button:hover a {
+    background-color: yellow;
+}
+img {
+    width: 90%;
+}
+.kit {
+    padding: 60px 0px ;
+}
+.forms {
+    margin-bottom: 20px;
+}
+.icon-4 {
+    position: relative;
+}
+.icon-4 {
+    position: relative;
+    text-align: center;
+}
+.icon-4 i {
+    position: absolute;
+    top: -37%;
+    left: -3%;
+    color: #8b8b0de6;
+}
+.N p {
+    text-align: left;
+}
+.L {
+    position: relative;
+}
+.L i {
+    position: absolute;
+    left: -10%;
+    top:-2;
+}
+.Voluptatem p {
+    margin-left: -5%;
+}
+.L h4 p {
+    text-align: right;
+    margin-left: 40%;
+}
+.icon-4 p {
+    text-align: center;
+}
+.icon1 p {
+    margin-left: -2%;
+}
+.M h1 {
+    color: white;
+}
+.p h2 {
+    margin-bottom: 40px;
+}
+.Q p {
+    margin-left: 20px ;
+}
+.Q h5 {
+    margin-left: 20px ;
+}
+.navigation li  {
+    list-style-type: none;
+    margin-top: 20px;
+    }
+.navigation ul {
+    display: flex;
+    
+}
+.navigation a{
+    text-decoration: none;
+    padding-right: 100px;
+}
+.navigation {
+    display: flex;
+}
+.navigation a:hover {
+    color: yellow;
+}
+select {
+    border: none;
+    color: blue;
+}
+select {
+    margin-left: -123px;
+}
+a.nav {
+    margin-left: 106px;
+}
+a.drop {
+    margin-right: 30px;
+}
+a {
+    margin-right: 10px;
+}
+
+
